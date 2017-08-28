@@ -320,6 +320,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/ido/proprietary/vendor/lib/libsc-a3xx.so:system/vendor/lib/libsc-a3xx.so \
     vendor/xiaomi/ido/proprietary/vendor/lib/libscale.so:system/vendor/lib/libscale.so \
     vendor/xiaomi/ido/proprietary/vendor/lib/libsmemlog.so:system/vendor/lib/libsmemlog.so \
+    vendor/xiaomi/ido/proprietary/vendor/lib/libstlport.so:system/vendor/lib/libstlport.so \
     vendor/xiaomi/ido/proprietary/vendor/lib/libthermalclient.so:system/vendor/lib/libthermalclient.so \
     vendor/xiaomi/ido/proprietary/vendor/lib/libts_detected_face_hal.so:system/vendor/lib/libts_detected_face_hal.so \
     vendor/xiaomi/ido/proprietary/vendor/lib/libts_face_beautify_hal.so:system/vendor/lib/libts_face_beautify_hal.so \
