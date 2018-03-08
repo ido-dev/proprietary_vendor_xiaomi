@@ -16,7 +16,6 @@
 
 PRODUCT_COPY_FILES += \
     vendor/xiaomi/ido/proprietary/vendor/bin/adsprpcd:system/vendor/bin/adsprpcd \
-    vendor/xiaomi/ido/proprietary/vendor/bin/btnvtool:system/vendor/bin/btnvtool \
     vendor/xiaomi/ido/proprietary/bin/cnd:system/bin/cnd \
     vendor/xiaomi/ido/proprietary/bin/dpmd:system/bin/dpmd \
     vendor/xiaomi/ido/proprietary/vendor/bin/hci_qcomm_init:system/vendor/bin/hci_qcomm_init \
